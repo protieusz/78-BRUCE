@@ -1,8 +1,8 @@
 # 78-BRUCE
 Condensed version of the Batarang with interchangeable 25mm or 34mm trackball powered with integrated RP2040 and hot swaps
 
-
-
+# Preview
+![IMG_4534](https://github.com/user-attachments/assets/805bc9e3-0874-45f5-8669-91f44077aefb)
 
 
 
