@@ -1,6 +1,11 @@
 # 78-BRUCE
 Condensed version of the Batarang with interchangeable 25mm or 34mm trackball powered with integrated RP2040 and hot swaps
 
+# Sponsorship
+Thank you PCBWay for sponsoring my 78-BRUCE. For all your custom PCB/PCBA service you can count on PCBWay.  Top notch quality and awesome customer service.
+![PCBWay](https://github.com/user-attachments/assets/807445ee-6698-4a98-9ab0-539473043073)
+
+
 # Preview
 ![IMG_4534](https://github.com/user-attachments/assets/805bc9e3-0874-45f5-8669-91f44077aefb)
 
