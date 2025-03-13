@@ -8,7 +8,12 @@ Thank you PCBWay for sponsoring my 78-BRUCE. For all your custom PCB/PCBA servic
 
 # Preview
 ![IMG_4534](https://github.com/user-attachments/assets/805bc9e3-0874-45f5-8669-91f44077aefb)
-
+![Screenshot 2025-02-21 at 10 16 29 AM](https://github.com/user-attachments/assets/9405565c-3c31-4f17-a299-dca5d91722d1)
+![Screenshot 2025-02-25 at 10 51 32 AM](https://github.com/user-attachments/assets/89abca9d-b6c9-4c08-b6a7-bea1f3886fbd)
+![Screenshot 2025-02-25 at 10 51 49 AM](https://github.com/user-attachments/assets/a473d6c8-e4f0-4afb-bcfd-f3ab8081998d)
+![Screenshot 2025-02-20 at 9 17 04 AM](https://github.com/user-attachments/assets/1d90a84f-029f-4ec2-951a-13372d9adce0)
+![Screenshot 2025-02-19 at 7 46 14 AM](https://github.com/user-attachments/assets/e0c7cc0d-090a-4f71-8570-c98c5d8d8f4a)
+![Screenshot 2025-02-18 at 6 02 32 AM](https://github.com/user-attachments/assets/bc2ec784-9bab-4990-99ba-efa2b69d5dcd)
 
 
 # License
