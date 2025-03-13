@@ -5,6 +5,12 @@ Condensed version of the Batarang with interchangeable 25mm or 34mm trackball po
 Thank you PCBWay for sponsoring my 78-BRUCE. For all your custom PCB/PCBA service you can count on PCBWay.  Top notch quality and awesome customer service.
 ![PCBWay](https://github.com/user-attachments/assets/807445ee-6698-4a98-9ab0-539473043073)
 
+# Disclaimer
+This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of a bat from the Batman series. It is made out of love and respect for the Batman series. All rights to Batman and related content are owned by Warner Brothers and its associated companies. The images, names, storylines and other elements of Batman used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The license of this design reflects not for commercial use.
+Please print and use the case and PCB at your own risk.
+
+# Description
+A condensed version from my previous Batarang/Armored Batarang versions. 34 keys column staggered with either a 34mm or 25mm interchangeable trackball in the middle. PCB is powered by integrated RP2040. For diodes I use the BAV70, 1 pair of common cathodes 1.25V@150mA 200mA SOT-23 Switching Diodes.  Trackball sensor is the good old PMW3360. This time for the trackball holder, I decided to go back and use ma_po_daisuki's https://ma-po.booth.pm/items/5258743 intechangeable designs. Please support him by buying his step files. Case step files will be uploaded soon and can be 3D printed. QMK code as always copy pasted from bally's of aki27. No support will be given. Please print this design at your own risk.
 
 # Preview
 ![IMG_4534](https://github.com/user-attachments/assets/805bc9e3-0874-45f5-8669-91f44077aefb)
