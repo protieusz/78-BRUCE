@@ -10,7 +10,7 @@ This work is a non-commercial fan creation of custom keyboard case and PCB in th
 Please print and use the case and PCB at your own risk.
 
 # Description
-A condensed version from my previous Batarang/Armored Batarang versions. 34 keys column staggered with either a 34mm or 25mm interchangeable trackball in the middle. PCB is powered by integrated RP2040. For diodes I use the BAV70, 1 pair of common cathodes 1.25V@150mA 200mA SOT-23 Switching Diodes.  Trackball sensor is the good old PMW3360. This time for the trackball holder, I decided to go back and use ma_po_daisuki's https://ma-po.booth.pm/items/5258743 intechangeable designs. Please support him by buying his step files. Case step files will be uploaded soon and can be 3D printed. QMK code as always copy pasted from bally's of aki27. No support will be given. Please print this design at your own risk.
+A condensed version from my previous Batarang/Armored Batarang versions. 34 keys column staggered with either a 34mm or 25mm interchangeable trackball in the middle. PCB is powered by integrated RP2040. For diodes I use the BAV70, 1 pair of common cathodes 1.25V@150mA 200mA SOT-23 Switching Diodes.  Trackball sensor is the good old PMW3360. This time for the trackball holder, I decided to go back and use ma_po_daisuki's https://ma-po.booth.pm/items/5258743 intechangeable designs. Please support him by buying his STL files. Case step files will be uploaded soon and can be 3D printed. QMK code as always copy pasted from bally's of aki27. No support will be given. Please print this design at your own risk.
 
 # Preview
 ![IMG_4534](https://github.com/user-attachments/assets/805bc9e3-0874-45f5-8669-91f44077aefb)
