@@ -13,6 +13,7 @@ Please print and use the case and PCB at your own risk.
 A condensed version from my previous Batarang/Armored Batarang versions https://github.com/protieusz/Batarang-Armored-Version. 34 keys column staggered with either a 34mm or 25mm interchangeable trackball in the middle. PCB is powered by integrated RP2040. For diodes I use the BAV70, 1 pair of common cathodes 1.25V@150mA 200mA SOT-23 Switching Diodes.  Trackball sensor is the good old PMW3360. This time for the trackball holder, I decided to go back and use ma_po_daisuki's https://ma-po.booth.pm/items/5258743 intechangeable designs. Please support him by buying his STEP files. Case STL files will be uploaded ~~soon~~ to MakerWorld https://makerworld.com/en/models/1207063-78-bruce#profileId-1221103. Please BOOST me whenever you can so I can be motivated to create more stuff. Thanks. QMK code as always copy pasted from bally's of aki27. No support will be given. Please print this design at your own risk.
 
 # Full Production Pictures
+Mar 16, 2025
 ![IMG_4543](https://github.com/user-attachments/assets/e1ba0d12-7600-4182-94c9-5fef711ccc60)
 ![IMG_4535](https://github.com/user-attachments/assets/a7a9c130-ff74-4cd0-998f-37952db14383)
 ![IMG_4533](https://github.com/user-attachments/assets/347b8dbd-d6a8-4ebd-9315-9250d1e41a2c)
