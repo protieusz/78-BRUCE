@@ -14,6 +14,8 @@ A condensed version from my previous Batarang/Armored Batarang versions https://
 
 # Full Production Pictures
 
+![IMG_4628](https://github.com/user-attachments/assets/1341452e-2f44-46b4-a53e-c992c010da18)
+![IMG_4629](https://github.com/user-attachments/assets/926c6684-76ba-4215-a626-989e1f6a7bde)
 ![IMG_4611](https://github.com/user-attachments/assets/c0f3e82c-a519-4e22-8a5e-2464ccd39d7c)
 ![IMG_4612](https://github.com/user-attachments/assets/235ebd85-0a5c-4aa7-8e2e-3a914a1f5882)
 ![IMG_4616](https://github.com/user-attachments/assets/220f1eec-e43b-48ed-8e51-cb30d3545836)
