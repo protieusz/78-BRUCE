@@ -5,6 +5,9 @@ Condensed version of the Batarang with interchangeable 25mm or 34mm trackball po
 Thank you PCBWay for sponsoring my 78-BRUCE. For all your custom PCB/PCBA service you can count on PCBWay.  Top notch quality and awesome customer service. Their customer service will notify you if there are commponents that they are unable to get and will ask you if their suggested alternative component is good. Customer service will keep track of your progress and notify you.
 ![PCBWay](https://github.com/user-attachments/assets/807445ee-6698-4a98-9ab0-539473043073)
 
+# Featured
+https://kbd.news/78-BRUCE-2617.html 
+
 # Disclaimer
 This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of a bat from the Batman series. It is made out of love and respect for the Batman series. All rights to Batman and related content are owned by Warner Bros. Entertainment Inc. and its associated companies. The images, names, storylines and other elements of Batman used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The license of this design reflects not for commercial use.
 Please print and use the case and PCB at your own risk.
